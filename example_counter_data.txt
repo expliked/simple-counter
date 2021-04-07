@@ -1,0 +1,3 @@
+hotkey: F2
+text: fc's past stepping solo b: {}
+value: 0
